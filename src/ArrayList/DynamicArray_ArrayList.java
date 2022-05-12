@@ -1,4 +1,4 @@
-package ArrayConcepts;
+package ArrayList;
 
 import java.util.ArrayList;
 

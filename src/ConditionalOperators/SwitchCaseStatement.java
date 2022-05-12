@@ -31,6 +31,7 @@ public class SwitchCaseStatement {
 		}
 		
 		
+		
 		int marks=100;
 		switch (marks) {
 		case  100:
