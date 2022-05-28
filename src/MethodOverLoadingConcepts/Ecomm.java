@@ -29,7 +29,7 @@ public class Ecomm {
 		System.out.println("login with: " + username + " : " + otp);
 	}
 
-	public void login(int otp, String username, String pwd) { // 2
+	public void login(int otp, String username, String pwd) { // 3
 		System.out.println("login with: " + username + " : " + otp + " : " + pwd);
 	}
 
@@ -37,6 +37,10 @@ public class Ecomm {
 		System.out.println("login with:" + phoneno + " : " + otp);
 
 	}
+	
+//	public void login1(String socialMediaAccount , String email) {
+//		
+//	}
 
 	// use cases
 	// search feature in the ecommerce appn

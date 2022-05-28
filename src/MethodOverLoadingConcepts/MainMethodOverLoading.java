@@ -16,8 +16,10 @@ public class MainMethodOverLoading {
 		System.out.println("Main 2:" +a);
 	}
 	
-	public void main(int a , int b) {
+	public void main(int a, int b) {
 		System.out.println("Main 3	:" + a + b);
 	}
+	
+	
 
 }
