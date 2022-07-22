@@ -47,7 +47,7 @@ public class ArrayAssignment {
 		System.out.println("@@@@");
 		for(int p=0; p<=3; p++) {
 			for(int q=0; q<=9; q++) {
-				System.out.print(p +""+q+" ");
+				System.out.print(p +""+q+"  ");
 			}
 			System.out.println();
 		}

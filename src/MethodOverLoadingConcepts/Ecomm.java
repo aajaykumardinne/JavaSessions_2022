@@ -8,10 +8,10 @@ public class Ecomm {
 
 	// Method Overloading Concept
 	// Within the same class , when you have number of methods
-	// 1. with the same name
-	// 2. different parameters
-	// 3. different types of the parameters
-	// 4. sequence of the parameters should be different
+	// 1. with the same name.
+	// 2. with the different number of parameters.
+	// 3. with different types of the parameters.
+	// 4. the sequence of the parameters should be different.
 
 	public void login() { // 0
 		System.out.println("default login");
@@ -80,7 +80,7 @@ public class Ecomm {
 		
 	}
 	
-	public void soPayment(long phoneno, int opt, String upi) {
+	public void doPayment(long phoneno, int opt, String upi) {
 		
 	}
 	

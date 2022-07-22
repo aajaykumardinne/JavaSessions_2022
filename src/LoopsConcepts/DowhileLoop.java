@@ -11,7 +11,7 @@ public class DowhileLoop {
 		do {
 			++f;
 			System.out.println(f);
-			break;
+	//		break;
 //			f++;
 			
 		} while (f<=10);
